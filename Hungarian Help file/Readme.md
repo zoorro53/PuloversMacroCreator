@@ -1,6 +1,7 @@
-## Magyar súgó (CHM)
+# Hungarian Help File (CHM) for Pulover's Macro Creator
 
-A repository tartalmazza a lefordított magyar **CHM súgó fájlt** a Pulover's Macro Creator programhoz:
+This repository contains the translated Hungarian CHM help file.
 
-- Fájl neve: `MacroCreator_Help_Hu.chm`
-- Használat: nyissa meg duplakattintással, a tartalomjegyzék magyar menüpontokat tartalmaz.
+ **File:** `MacroCreator_Help_Hu.chm`
+ **Usage:** Open with a double-click. The contents and menu entries are in Hungarian.
+ **Note:** Only the compiled CHM file is included. Source files are not provided.
