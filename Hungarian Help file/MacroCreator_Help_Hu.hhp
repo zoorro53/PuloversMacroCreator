@@ -1,0 +1,63 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=MacroCreator_Help_Hu.chm
+Contents file=MacroCreator_Help_Hu.hhc
+Default topic=Index.html
+Display compile progress=No
+Index file=MacroCreator_Help_Hu.hhk
+Language=0x40e magyar (Magyarország)
+
+
+[FILES]
+About.html
+Commands.html
+Export.html
+Faq.html
+Functions.html
+Index.html
+License.html
+Main.html
+Playback.html
+Preview.html
+Record.html
+Settings.html
+Tutorial.html
+Variables.html
+Commands\Break.html
+Commands\Continue.html
+Commands\Control.html
+Commands\Download_Files.html
+Commands\Else.html
+Commands\Expression.html
+Commands\For_Loop.html
+Commands\Functions.html
+Commands\Goto_and_Gosub.html
+Commands\If_Statements.html
+Commands\Image_Search.html
+Commands\Image_To_Text.html
+Commands\Internet_Explorer.html
+Commands\KeyWait.html
+Commands\Label.html
+Commands\Loop.html
+Commands\Loop_FilePattern.html
+Commands\Loop_Parse.html
+Commands\Loop_Read.html
+Commands\Loop_Registry.html
+Commands\Message_Box.html
+Commands\Mouse.html
+Commands\Pause.html
+Commands\Pixel_Search.html
+Commands\PostMessage_and_SendMessage.html
+Commands\Return.html
+Commands\Run.html
+Commands\Send_Email.html
+Commands\Set_Timer.html
+Commands\Text.html
+Commands\Until.html
+Commands\Variables.html
+Commands\While_Loop.html
+Commands\Window.html
+Commands\Zip_Files.html
+
+[INFOTYPES]
+
